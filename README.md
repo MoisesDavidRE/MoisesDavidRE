@@ -1,6 +1,6 @@
 # Hola, soy Moisés David Ramón Esteban
 
-### Arquitecto de Software / Middle Software Developer en CODELAND MX
+### Arquitecto de Software / Middle Software Developer
 
 Soy un desarrollador de software enfocado en el Back-End y la ingeniería de software. Me apasiona crear soluciones eficientes utilizando buenas prácticas de arquitectura y diseño.
 
