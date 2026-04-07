@@ -1,8 +1,8 @@
 # Hola, soy Moisés David Ramón Esteban
 
-### Arquitecto de Software / Middle Software Developer
+### Desarrollador Full Stack / Arquitecto de Software
 
-Soy un desarrollador de software enfocado en el Back-End y la ingeniería de software. Me apasiona crear soluciones eficientes utilizando buenas prácticas de arquitectura y diseño.
+Soy un desarrollador de software enfocado en crear soluciones integrales, dominando tanto el Front-End como el Back-End. Me apasiona construir aplicaciones eficientes, escalables y mantenibles utilizando buenas prácticas de arquitectura y diseño.
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -21,8 +21,9 @@ Soy un desarrollador de software enfocado en el Back-End y la ingeniería de sof
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-* **Stack principal:** .NET 8/9/10, ASP.NET Core, MAUI, Entity Framework Core, Bootstrap.
-* **Diseño y Arquitectura:** REST APIs, Clean Architecture, Vertical Slice, SOLID, MVVM, CQRS, MVC, 3 Capas.
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+* **Stack principal:** .NET, ASP.NET Core, Blazor, MAUI, Angular, React, Entity Framework.
+* **Diseño y Arquitectura:** API RESTful, Clean Architecture, Vertical Slice, SOLID, MVVM, CQRS, MVC, 3 Capas.
 * **Testing:** xUnit, Pruebas unitarias y de integración.
 
 ### Infraestructura, Herramientas y Bases de Datos
@@ -31,32 +32,32 @@ Soy un desarrollador de software enfocado en el Back-End y la ingeniería de sof
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 * **Bases de Datos:** SQL Server, MySQL, MongoDB, Firebase.
-* **Herramientas de Desarrollo:** Azure DevOps, GitHub, VS Code, Visual Studio, Postman.
-* **Metodologías:** SCRUM.
+* **Herramientas de Desarrollo:** Azure DevOps, GitHub, VS Code, Visual Studio, Android Studio, Net Beans, Eclipse, Postman.
+* **Metodologías:** Scrum.
 
 ## 🚀 Experiencia, Proyectos y Educación Destacada
 
-* **Arquitecto de Software y Desarrollador .NET en CODELAND MX (2025 - 2026):** Diseño e implementación de arquitecturas (Clean Architecture, Vertical Slice, MVVM), creación de microservicios y supervisión de principios SOLID/CQRS. Contribución clave en proyectos como "CRASH" y "NIUX".
-* **Desarrollador .NET en Secretaría del Bienestar (2024 - 2025):** Desarrollo de aplicaciones web bajo patrón MVC y consumo de APIs RESTful.
-* **Migración Cloud:** Transformación de infraestructura pasando de AWS Lambda a C# en Azure.
+* **Arquitecto de Software en Codeland S.A. de C.V. (Nov 2025 - Mar 2026):** Diseño e implementación de arquitectura basada en Clean Architecture y Vertical Slice, garantizando escalabilidad. Definición de arquitectura frontend bajo enfoque MVVM. Supervisión de principios SOLID y patrones CQRS. Validación de estrategias de pruebas (xUnit).
+* **Desarrollador .NET en Codeland S.A. de C.V. (Feb 2025 - Oct 2025):** Creación de arquitectura de software para API. Desarrollo de microservicios e integración con Front-End. Testeo con pruebas unitarias y de integración.
+* **Desarrollador .NET en Secretaría del Bienestar (Ene 2024 - Ene 2025):** Desarrollo de aplicaciones web (C#, JS, TS) bajo patrón MVC y consumo de APIs RESTful. Construcción de interfaces con Angular, React y Bootstrap. Optimización de consultas en SQL Server.
 * **Rally Latinoamericano de Innovación (2024):** Equipo ganador de la competencia.
-* **Plataforma Web Institucional (2023):** Desarrollo de solución web a medida.
-* **Ingeniería Informática:** Instituto Tecnológico Superior de Teziutlán (Agosto 2021 - Febrero 2026).
+* **Ingeniería Informática:** Instituto Tecnológico Superior de Teziutlán (Agosto 2021 - Febrero 2026) — *Título en trámite*.
 
 ## 🌱 Actualmente aprendiendo y Cursos
 
-* **Cursos Destacados:** CCNAv7, CISCO IoT Fundamentals, Red Hat System Administration I (RH124).
-* Profundizando en Arquitecturas de Software.
+* **Cursos Destacados:** CCNAv7, CISCO IoT Fundamentals, Red Hat System Administration I (RH124), Fundamentos de SCRUM.
+* Profundizando en Arquitecturas de Software y desarrollo Full Stack.
 * Preparación para la certificación Azure AZ-204.
-* Perfeccionando mi nivel de Inglés (Actualmente B1, rumbo a C1).
+* Perfeccionando mi nivel de Inglés (Certificación B1, rumbo a C1).
 
 ## ⚡ Intereses
 
-* Desarrollo Back-End
+* Desarrollo Full Stack / Back-End
 * Machine Learning
 * Aprendizaje activo de idiomas
 * Deportes
 
 ## 📫 Cómo contactarme
 
+* **Teléfono:** (555) 555 55 55
 * [Portafolio o Correo Outlook](mailto:moisesdavidramon@outlook.com) | [Correo Gmail](mailto:ejemplo@gmail.com)
